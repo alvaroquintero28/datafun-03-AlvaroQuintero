@@ -9,6 +9,8 @@ On Mac, create a project virtual environment in the .venv folder.
 python -m venv .venv
 source .venv\bin\activate
 python -m pip install -r requirements.txt
+create .gitignore file
+add .venv/ to .gitignore file
 
 ```
 
