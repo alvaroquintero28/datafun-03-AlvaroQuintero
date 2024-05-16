@@ -230,7 +230,7 @@ def main():
     ''' Main function to demonstrate module capabilities. '''
 
     # Print my name
-    name = "Ryan Krabbe"
+    name = "Alvaro Quintero Gonzalez"
     print(f"Name: {name}")
 
     # Main url's
