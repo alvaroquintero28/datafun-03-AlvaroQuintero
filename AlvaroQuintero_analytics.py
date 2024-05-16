@@ -1,4 +1,4 @@
-''' This module involves fetching data from the web, processing it with Python and writing the processed data to files '''
+''' Project 3 will help me continue to test my skills with data analysis '''
 # Standard Library Imports
 import csv
 import os
